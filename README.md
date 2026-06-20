@@ -5,7 +5,7 @@
 Generate a complete, production-ready Go microservice in seconds. One bash script. No cloning. No templates. No setup.
 
 ```
-    	   __  __      ___
+    	         __  __      ___
     			|  \/  |_  _/ _ \ _ __ ___
     			| |\/| \ \/ / | | | '_ ` _ \
     			| |  | |>  <| |_| | | | | | |
